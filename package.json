@@ -1,0 +1,14 @@
+{
+  "name": "crossic",
+  "version": "1.0.0",
+  "description": "common contracts in main chain and side chain",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinn2018/crossic.git"
+  },
+  "author": "Dinn",
+  "license": "MIT"
+}
