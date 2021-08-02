@@ -1,6 +1,6 @@
 {
   "name": "crossic",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "common contracts in main chain and side chain",
   "files": [
     "**/**.sol"
